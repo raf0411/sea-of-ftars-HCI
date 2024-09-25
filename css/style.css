@@ -134,7 +134,7 @@ header{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(/img/home-background_1.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(../img/home-background_1.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 125vh;
@@ -216,7 +216,7 @@ header{
 .features{
   position: relative;
   min-height: 200vh;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) ,url(/img/stars-background.jpg);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) ,url(../img/stars-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -289,25 +289,25 @@ header{
 }
 
 .feature-img-1{
-  background-image: url(/img/chest.gif);
+  background-image: url(../img/chest.gif);
   background-position: center;
   background-size: 20rem;
 }
 
 .feature-img-2{
-  background-image: url(/img/gems.gif);
+  background-image: url(../img/gems.gif);
   background-position: center;
   background-size: 20rem;
 }
 
 .feature-img-3{
-  background-image: url(/img/potion.gif);
+  background-image: url(../img/potion.gif);
   background-position: center;
   background-size: 20rem;
 }
 
 .feature-img-4{
-  background-image: url(/img/coins.gif);
+  background-image: url(../img/coins.gif);
   background-position: center;
   background-size: 25rem;
   background-position: top;
@@ -317,7 +317,7 @@ header{
 /* WHERE TO PLAY SECTION */
 .play-section{
   position: relative;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(/img/Obsidian_Citadel.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(../img/Obsidian_Citadel.png);
   min-height: 200vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -415,7 +415,7 @@ header{
 .footer{
   position: relative;
   min-height: 150vh;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(/img/The\ Necropolis\ of\ the\ Undead.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(../img/The\ Necropolis\ of\ the\ Undead.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 180vh;
@@ -450,7 +450,7 @@ header{
 .characters-page{
   position: relative;
   min-height: 230vh;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(/img/stars-background.jpg);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(../img/stars-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 125vh;
@@ -530,7 +530,7 @@ header{
 /* CHARACTER DETAIL PAGE */
 
 .char-detail-page{
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(/img/42_The\ Wandering\ Isle.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(../img/42_The\ Wandering\ Isle.png);
   position: relative;
   min-height: 150vh;
   background-repeat: no-repeat;
@@ -541,7 +541,7 @@ header{
 }
 
 .char-detail-page-1{
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(/img/22_The\ Kingdom\ of\ Ice.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(../img/22_The\ Kingdom\ of\ Ice.png);
   position: relative;
   min-height: 150vh;
   background-repeat: no-repeat;
@@ -552,7 +552,7 @@ header{
 }
 
 .char-detail-page-2{
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(/img/8_The\ Realm\ of\ Fire.png);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)), url(../img/8_The\ Realm\ of\ Fire.png);
   position: relative;
   min-height: 150vh;
   background-repeat: no-repeat;
@@ -922,7 +922,7 @@ header{
 }
 
 .username{
-  background-image: url(/img/user.png);
+  background-image: url(../img/user.png);
   position: left;
   padding-left: 3rem;
   justify-content: center;
@@ -932,7 +932,7 @@ header{
 }
 
 .password{
-  background-image: url(/img/padlock.png);
+  background-image: url(../img/padlock.png);
   position: left;
   padding-left: 3rem;
   justify-content: center;
@@ -942,7 +942,7 @@ header{
 }
 
 .email{
-  background-image: url(/img/email.png);
+  background-image: url(../img/email.png);
   position: left;
   padding-left: 3rem;
   justify-content: center;
@@ -952,7 +952,7 @@ header{
 }
 
 .phone{
-  background-image: url(/img/smartphone-call.png);
+  background-image: url(../img/smartphone-call.png);
   position: left;
   padding-left: 3rem;
   justify-content: center;
@@ -964,7 +964,7 @@ header{
 }
 
 .country{
-  background-image: url(/img/placeholder.png);
+  background-image: url(../img/placeholder.png);
   position: left;
   padding-left: 3rem;
   justify-content: center;
@@ -1037,7 +1037,7 @@ input:focus{
 .fan-arts{
   position: relative;
   min-height: 300vh;
-  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(/img/stars-background.jpg);
+  background-image: linear-gradient(0deg, rgba(37, 37, 68, 0.5), rgba(37, 37, 68, 0.5)) , url(../img/stars-background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -1185,7 +1185,7 @@ input:focus{
 }
 
 .fan-art-box{
-  background-image: url(/img/beast.png);
+  background-image: url(../img/beast.png);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -1193,7 +1193,7 @@ input:focus{
 }
 
 .fan-art-box-1{
-  background-image: url(/img/boy.jpg);
+  background-image: url(../img/boy.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1201,7 +1201,7 @@ input:focus{
 }
 
 .fan-art-box-2{
-  background-image: url(/img/sword.jpg);
+  background-image: url(../img/sword.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1209,7 +1209,7 @@ input:focus{
 }
 
 .fan-art-box-3{
-  background-image: url(/img/attack-attack!.jpg);
+  background-image: url(../img/attack-attack!.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -1217,7 +1217,7 @@ input:focus{
 }
 
 .fan-art-box-4{
-  background-image: url(/img/visions-unleashed.png);
+  background-image: url(../img/visions-unleashed.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -1225,7 +1225,7 @@ input:focus{
 }
 
 .fan-art-box-5{
-  background-image: url(/img/illustrated\ legends.png);
+  background-image: url(../img/illustrated\ legends.png);
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -1233,14 +1233,14 @@ input:focus{
 }
 
 .main-art{
-  background-image: url(/img/lovebirds.png);
+  background-image: url(../img/lovebirds.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #252544;
 }
 
 .fan-art-big{
-  background-image: url(/img/91_The\ Shimmering\ Vale.png);
+  background-image: url(../img/91_The\ Shimmering\ Vale.png);
   background-size: 100rem;
   background-position: bottom;
   background-repeat: no-repeat;
